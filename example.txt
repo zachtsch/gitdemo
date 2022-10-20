@@ -1,2 +1,2 @@
-[file example.txt]
-Writing this to a file.
+This is a line.
+This is another line.  
